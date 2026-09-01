@@ -1,0 +1,20 @@
+html,
+body,
+#root {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family:
+    Roboto,
+    "Segoe UI",
+    system-ui,
+    sans-serif;
+  background: #f7f2fa;
+  color: #1c1b1f;
+}
+
+* {
+  box-sizing: border-box;
+}
